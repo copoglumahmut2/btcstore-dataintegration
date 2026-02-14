@@ -1,0 +1,3 @@
+"csv-comment-line","code[unique]","description[lang=en]","description[lang=tr]","userRoles(code)","site(code)[unique]"
+"ALL","everyone_user_group","All Users","Tüm Kullanıcılar",super_admin,"btc"
+"ALL","super_admin","Store Admin","Store Sistem Yöneticisi","super_admin","btc"
