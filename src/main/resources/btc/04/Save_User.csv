@@ -1,2 +1,2 @@
-"code[unique]","username[unique]","firstName","lastName","email","password","userGroups(code)","language(code)","userRoles(code)","active","site(code)[unique]","phoneNumber",passwordLastChangeDate,"passwordEncoded"
-"01","admin","Mahmut","Çöpoğlu","mahmut.copoglu@btc-ag.com.tr",123456,"super_admin","tr","super_admin","true","btc","555 555 55 55",01.07.2023,false
+"username[unique]","firstName","lastName","email","password","userGroups(code)","language(code)","userRoles(code)","active","site(code)[unique]","phoneNumber",passwordLastChangeDate,"passwordEncoded"
+"admin","Mahmut","Çöpoğlu","mahmut.copoglu@btc-ag.com.tr",123,"super_admin","tr","super_admin","true","btc","555 555 55 55",01.07.2023,false

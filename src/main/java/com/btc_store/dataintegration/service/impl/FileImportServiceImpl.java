@@ -1,6 +1,5 @@
 package com.btc_store.dataintegration.service.impl;
 
-import com.btc.security.constant.AuthorizationConstants;
 import com.btc_store.dataintegration.constant.DataIntegrationConstant;
 import com.btc_store.dataintegration.service.FileImportService;
 import com.btc_store.dataintegration.service.ImportService;
@@ -9,6 +8,7 @@ import com.btc_store.domain.enums.DataIntegrationStatus;
 import com.btc_store.domain.enums.ImportProcessType;
 import com.btc_store.domain.model.custom.SiteModel;
 import com.btc_store.domain.model.custom.dataintegration.DataIntegrationLogModel;
+import com.btc_store.security.constant.AuthorizationConstants;
 import com.btc_store.service.ModelService;
 import com.btc_store.service.SiteService;
 import com.btc_store.service.constant.ServiceConstant;
