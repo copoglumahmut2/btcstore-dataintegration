@@ -40,11 +40,6 @@
             <artifactId>opencsv</artifactId>
             <version>5.4</version>
         </dependency>
-        <dependency>
-            <groupId>com.h2database</groupId>
-            <artifactId>h2</artifactId>
-            <scope>runtime</scope>
-        </dependency>
 
     </dependencies>
     <build>
@@ -72,7 +67,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <classifier>deploy</classifier>
-                    <mainClass>com.btc_store.BtcStoreApplication</mainClass>
+                    <mainClass>com.btc_store.DataIntegrationApplication</mainClass>
                     <excludes>
                         <exclude>
                             <groupId>org.projectlombok</groupId>
