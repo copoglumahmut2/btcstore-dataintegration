@@ -1,7 +1,7 @@
 package com.btc_store.dataintegration.constant;
 
 public class DataIntegrationConstant {
-    public static final String DOMAIN_PACKAGE = "com.btc.domain.";
+    public static final String DOMAIN_PACKAGE = "com.btc_store.domain.";
     public static final String MODEL_PREFIX = "Model";
     public static final String SITE_FIELD = "site(code)[unique]";
 
