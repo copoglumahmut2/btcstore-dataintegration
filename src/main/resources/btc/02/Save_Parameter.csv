@@ -2,3 +2,4 @@ code[unique],value,description[lang=tr],description[lang=en],site(code)[unique],
 exception.message.detail.visible,"true","Exception Helperda Detay Gösterilsin mi?","Exception Helperda Detay Gösterilsin mi?","btc","LOGIC",COMMON
 site.backoffice.url,http://localhost:3000/admin,Backoffice URL,Backoffice URL,btc,TEXT,COMMON
 login.blocked.max.attempt,99,Kullanıcının şifresini kaç kere yanlış gireceğini belirten durum,Kullanıcının şifresini kaç kere yanlış gireceğini belirten durum,btc,NUMERIC,COMMON
+search.service.encryption.enable,false,Search Service isteklerinin payload şifreleme durumu,Payload encryption status for Search Service requests,btc,LOGIC,COMMON
