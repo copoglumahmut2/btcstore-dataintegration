@@ -4,4 +4,5 @@
 "success_story_cms","Başarı Hikayeleri Yönetimi","Success Story Management","success_story_cat","btc"
 "reference_cms","Referans Yönetimi","Reference Management","reference_cat","btc"
 "partner_cms","Partner Yönetimi","Partner Management","reference_cat","btc"
-"user_cms","Kullanıcı Yönetimi","User Management","reference_cat","btc"
+"user_cms","Kullanıcı Yönetimi","User Management","user_cat","btc"
+"product_cms","Ürün Yönetimi","Product Management","product_cat","btc"
