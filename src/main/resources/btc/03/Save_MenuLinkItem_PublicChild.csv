@@ -1,0 +1,6 @@
+"code[unique]","displayOrder","name[lang=tr]","name[lang=en]","name[lang=de]","name[lang=fr]","name[lang=es]","name[lang=it]","isRoot","active","menuType","parentMenuLinkItem(code)","site(code)[unique]"
+"crm_systems","10","CRM Sistemleri","CRM Systems","CRM-Systeme","Systèmes CRM","Sistemas CRM","Sistemi CRM","false","true","PUBLIC","products","btc"
+"finance_management","20","Finans Yönetimi","Financial Management","Finanzmanagement","Gestion financière","Gestión financiera","Gestione finanziaria","false","true","PUBLIC","products","btc"
+"human_resources","30","İnsan Kaynakları","Human Resources","Personalwesen","Ressources humaines","Recursos humanos","Risorse umane","false","true","PUBLIC","products","btc"
+"marketing_automation","40","Pazarlama Otomasyonu","Marketing Automation","Marketing-Automatisierung","Automatisation du marketing","Automatización de marketing","Automazione del marketing","false","true","PUBLIC","products","btc"
+"warehouse_management","50","Depo Yönetimi","Warehouse Management","Lagerverwaltung","Gestion d'entrepôt","Gestión de almacén","Gestione magazzino","false","true","PUBLIC","products","btc"

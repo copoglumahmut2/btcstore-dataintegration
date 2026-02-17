@@ -1,0 +1,7 @@
+"code[unique]","displayOrder","name[lang=tr]","name[lang=en]","name[lang=de]","name[lang=fr]","name[lang=es]","name[lang=it]","isRoot","active","menuType","site(code)[unique]"
+"home","10","Anasayfa","Home","Startseite","Accueil","Inicio","Home","true","true","PUBLIC","btc"
+"products","20","Ürünler","Products","Produkte","Produits","Productos","Prodotti","true","true","PUBLIC","btc"
+"sap_services","30","Sap Hizmetleri","SAP Services","SAP-Dienste","Services SAP","Servicios SAP","Servizi SAP","true","true","PUBLIC","btc"
+"industry_solutions","40","Sektörel Çözümler","Industry Solutions","Branchenlösungen","Solutions sectorielles","Soluciones sectoriales","Soluzioni settoriali","true","true","PUBLIC","btc"
+"references","50","Referanslar","References","Referenzen","Références","Referencias","Referenze","true","true","PUBLIC","btc"
+"success_stories","60","Başarı Hikayeleri","Success Stories","Erfolgsgeschichten","Histoires de réussite","Casos de éxito","Storie di successo","true","true","PUBLIC","btc"
