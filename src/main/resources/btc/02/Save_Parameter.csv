@@ -3,3 +3,12 @@ exception.message.detail.visible,"true","Exception Helperda Detay Gösterilsin m
 site.backoffice.url,http://localhost:3000/admin,Backoffice URL,Backoffice URL,btc,TEXT,COMMON
 login.blocked.max.attempt,99,Kullanıcının şifresini kaç kere yanlış gireceğini belirten durum,Kullanıcının şifresini kaç kere yanlış gireceğini belirten durum,btc,NUMERIC,COMMON
 search.service.encryption.enable,false,Search Service isteklerinin payload şifreleme durumu,Payload encryption status for Search Service requests,btc,LOGIC,COMMON
+call.center.group,call_center,Call request otomatik atama grubu,Call request auto assignment group,btc,TEXT,COMMON
+mail.send.type,gmail,Mail gönderme sistemi (gmail/exchange/sap/pg),Mail sending system (gmail/exchange/sap/pg),btc,TEXT,COMMON
+mail.smtp.ip,smtp.gmail.com,SMTP sunucu adresi,SMTP server address,btc,TEXT,COMMON
+mail.smtp.port,587,SMTP port numarası,SMTP port number,btc,NUMERIC,COMMON
+mail.smtp.username,your-email@gmail.com,SMTP kullanıcı adı,SMTP username,btc,TEXT,COMMON
+mail.smtp.password,your-app-password,SMTP şifre,SMTP password,btc,TEXT,COMMON
+mail.smtp.from,noreply@example.com,Mail gönderen adresi,Mail sender address,btc,TEXT,COMMON
+mail.smtp.auth,true,SMTP authentication aktif mi,SMTP authentication enabled,btc,LOGIC,COMMON
+mail.smtp.starttls.enable,true,SMTP StartTLS aktif mi,SMTP StartTLS enabled,btc,LOGIC,COMMON
