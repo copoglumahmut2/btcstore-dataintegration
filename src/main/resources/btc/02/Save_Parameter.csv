@@ -7,8 +7,8 @@ call.center.group,call_center,Call request otomatik atama grubu,Call request aut
 mail.send.type,gmail,Mail gönderme sistemi (gmail/exchange/sap/pg),Mail sending system (gmail/exchange/sap/pg),btc,TEXT,COMMON
 mail.smtp.ip,smtp.gmail.com,SMTP sunucu adresi,SMTP server address,btc,TEXT,COMMON
 mail.smtp.port,587,SMTP port numarası,SMTP port number,btc,NUMERIC,COMMON
-mail.smtp.username,your-email@gmail.com,SMTP kullanıcı adı,SMTP username,btc,TEXT,COMMON
-mail.smtp.password,your-app-password,SMTP şifre,SMTP password,btc,TEXT,COMMON
-mail.smtp.from,noreply@example.com,Mail gönderen adresi,Mail sender address,btc,TEXT,COMMON
+mail.smtp.username,erhanturksel2@gmail.com,SMTP kullanıcı adı,SMTP username,btc,TEXT,COMMON
+mail.smtp.password,xapgymqitevitnes,SMTP şifre,SMTP password,btc,TEXT,COMMON
+mail.smtp.from,info@btc-ag.com.tr,Mail gönderen adresi,Mail sender address,btc,TEXT,COMMON
 mail.smtp.auth,true,SMTP authentication aktif mi,SMTP authentication enabled,btc,LOGIC,COMMON
 mail.smtp.starttls.enable,true,SMTP StartTLS aktif mi,SMTP StartTLS enabled,btc,LOGIC,COMMON
