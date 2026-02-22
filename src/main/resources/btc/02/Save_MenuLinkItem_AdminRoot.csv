@@ -1,0 +1,6 @@
+"code[unique]","displayOrder","name[lang=tr]","name[lang=en]","name[lang=de]","name[lang=fr]","name[lang=es]","name[lang=it]","isRoot","active","menuType","site(code)[unique]"
+"dashboard","10","Kontrol Paneli","Dashboard","Dashboard","Tableau de bord","Panel de control","Dashboard","true","true","ADMIN_PANEL","btc"
+"product_catalog","20","Ürün & Katalog","Product & Catalog","Produkt & Katalog","Produit & Catalogue","Producto & Catálogo","Prodotto & Catalogo","true","true","ADMIN_PANEL","btc"
+"content_media","30","İçerik & Medya","Content & Media","Inhalt & Medien","Contenu & Médias","Contenido & Medios","Contenuto & Media","true","true","ADMIN_PANEL","btc"
+"contact_forms","40","İletişim & Formlar","Contact & Forms","Kontakt & Formulare","Contact & Formulaires","Contacto & Formularios","Contatti & Moduli","true","true","ADMIN_PANEL","btc"
+"system_settings","50","Sistem & Ayarlar","System & Settings","System & Einstellungen","Système & Paramètres","Sistema & Configuración","Sistema & Impostazioni","true","true","ADMIN_PANEL","btc"
