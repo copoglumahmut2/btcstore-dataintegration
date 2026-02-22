@@ -1,0 +1,8 @@
+"code[unique]","displayOrder","name[lang=tr]","name[lang=en]","name[lang=de]","name[lang=fr]","name[lang=es]","name[lang=it]","isRoot","active","menuType","parentMenuLinkItem(code)","site(code)[unique]"
+"all_calls","10","Tüm Çağrılar","All Calls","Alle Anrufe","Tous les appels","Todas las llamadas","Tutte le chiamate","false","true","ADMIN_PANEL","call_requests","btc"
+"my_tasks","20","Benim İşlerim","My Tasks","Meine Aufgaben","Mes tâches","Mis tareas","I miei compiti","false","true","ADMIN_PANEL","call_requests","btc"
+"admin_menus","10","Yönetim Paneli Menüleri","Admin Panel Menus","Admin-Panel-Menüs","Menus du panneau d’administration","Menús del panel de administración","Menu pannello di amministrazione","false","true","ADMIN_PANEL","menu_management","btc"
+"public_menus","20","Site Menüleri","Site Menus","Website-Menüs","Menus du site","Menús del sitio","Menu del sito","false","true","ADMIN_PANEL","menu_management","btc"
+"users","20","Kullanıcılar","Users","Benutzer","Utilisateurs","Usuarios","Utenti","false","true","ADMIN_PANEL","user_management","btc"
+"roles","20","Roller","Roles","Rollen","Rôles","Roles","Ruoli","false","true","ADMIN_PANEL","user_management","btc"
+"permissions","30","Yetkiler","Permissions","Berechtigungen","Autorisations","Permisos","Autorizzazioni","false","true","ADMIN_PANEL","user_management","btc"
